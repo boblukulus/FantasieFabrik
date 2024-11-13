@@ -1,1 +1,1 @@
-Das soll eine konflikt datei sein.
+Das ist eine Konfliktdatei
