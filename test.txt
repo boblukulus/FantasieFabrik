@@ -1,1 +1,3 @@
 Das ist der Erste text und wurde 10Uhr25 geschrieben. Er ist der erste commit dieser Woche
+
+Das ist der Zweite text und wurde 10Uhr29 geschrieben. Er ist der zweite commit dieser Woche
